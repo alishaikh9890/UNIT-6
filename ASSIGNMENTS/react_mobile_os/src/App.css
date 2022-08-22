@@ -1,0 +1,13 @@
+.App{
+  font-family: 'Times New Roman', Times, serif;
+  margin: auto;
+  width: fit-content;
+background-color: white;
+font-size: 12px;
+}
+body{
+  background-color: black;
+  vertical-align: middle;
+  margin-top: 30%;
+  
+}
