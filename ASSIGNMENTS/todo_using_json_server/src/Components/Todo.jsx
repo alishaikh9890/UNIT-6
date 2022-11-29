@@ -74,7 +74,7 @@ import React from "react";
                     </button>
                 <button
                  onClick={() => setPage(page + 1)}
-                  disabled={page=== Math.ceil(totalItems / 3)} 
+                  disabled={page===Math.ceil(totalItems / 3)} 
                  
                  >
                     NEXT
